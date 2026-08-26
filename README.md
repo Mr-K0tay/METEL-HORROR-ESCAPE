@@ -87,5 +87,6 @@ DelK_Hack.exe          деинсталлятор
 ## 🔗 Автор
 - **YouTube:** https://www.youtube.com/@Mr_K0tay
 - **Поддержать:** https://www.donationalerts.com/r/mrk0tay
+- **Нашли баг?** - kotayzet@gmail.com
 
 *gg.exe :: stay hidden :)*
